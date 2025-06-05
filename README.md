@@ -25,9 +25,6 @@ Python, SQL, HTML/CSS, JavaScript, Dart
 Flask, Node.js, Express.js, MongoDB, Bootstrap, TailwindCSS, Tkinter, PyMongo, Scikit-learn, Matplotlib, Seaborn  
 
 **Platforms & Tools:**  
-Power BI, Git, GitHub, Firebase, Flutter, Figma, Jupyter Notebook, Azure  
-
-**Core Skills:**  
-AI/ML Prototyping, Prompt Engineering, Python & REST APIs, No‑Code/Low‑Code Tools, UI-UX Design, Web Routing, Workflow Automation  
+Power BI, Git, GitHub, Firebase, Flutter, Figma, Jupyter Notebook, Azure   
 
 ---
